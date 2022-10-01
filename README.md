@@ -1,0 +1,1 @@
+Google clone built using NextJS and React, including server-side-rendering, file based routing, hooks and pagination. The site is styled using Tailwind CSS for a responsive design and uses next-auth for authentication and signing in to Google. The site uses the Google Search API to render web and image search results
